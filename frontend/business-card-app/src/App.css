@@ -1,0 +1,25 @@
+.card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.interests ul {
+  list-style-type: none;
+  padding: 0;
+}
+.interests li {
+  color: black;
+  margin: 4px 0;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+button{
+  padding: 2px;
+  margin: 2px;
+  background-color: lightblue;
+  cursor: pointer;
+}
